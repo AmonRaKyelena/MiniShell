@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\includes",
+    "\\libft",
+    "\\srcs",
+    "\\srcs\\builtins",
+    "\\srcs\\env",
+    "\\srcs\\exec",
+    "\\srcs\\free_error",
+    "\\srcs\\heredoc",
+    "\\srcs\\history"
+  ],
+  "SelectedNode": "\\Makefile",
+  "PreviewInSolutionExplorer": false
+}
